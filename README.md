@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Pratyush2240/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Pratyush2240/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1470-shuffle-the-array](https://github.com/Pratyush2240/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Pratyush2240/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/Pratyush2240/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -15,9 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Pratyush2240/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1590-make-sum-divisible-by-p](https://github.com/Pratyush2240/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Pratyush2240/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Pratyush2240/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Pratyush2240/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
