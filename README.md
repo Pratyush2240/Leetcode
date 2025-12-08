@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pratyush2240/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Pratyush2240/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pratyush2240/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Enumeration
