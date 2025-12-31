@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Pratyush2240/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Pratyush2240/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1590-make-sum-divisible-by-p](https://github.com/Pratyush2240/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3583-count-special-triplets](https://github.com/Pratyush2240/Leetcode/tree/master/3583-count-special-triplets) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Pratyush2240/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratyush2240/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pratyush2240/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Pratyush2240/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
