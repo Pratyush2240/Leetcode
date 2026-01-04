@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Pratyush2240/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pratyush2240/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratyush2240/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1390-four-divisors](https://github.com/Pratyush2240/Leetcode/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/Pratyush2240/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Pratyush2240/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/Pratyush2240/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pratyush2240/Leetcode/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/Pratyush2240/Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pratyush2240/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Pratyush2240/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pratyush2240/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
