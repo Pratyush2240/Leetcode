@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Pratyush2240/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/Pratyush2240/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pratyush2240/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Pratyush2240/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pratyush2240/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3583-count-special-triplets](https://github.com/Pratyush2240/Leetcode/tree/master/3583-count-special-triplets) |
 ## Simulation
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pratyush2240/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Pratyush2240/Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## String
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Pratyush2240/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/Pratyush2240/Leetcode/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
