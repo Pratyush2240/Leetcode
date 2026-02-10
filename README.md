@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Pratyush2240/Leetcode/tree/master/3453-separate-squares-i) |
 | [3583-count-special-triplets](https://github.com/Pratyush2240/Leetcode/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Pratyush2240/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Pratyush2240/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
 |  |
 | ------- |
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pratyush2240/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Pratyush2240/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3583-count-special-triplets](https://github.com/Pratyush2240/Leetcode/tree/master/3583-count-special-triplets) |
+| [3719-longest-balanced-subarray-i](https://github.com/Pratyush2240/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratyush2240/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Pratyush2240/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pratyush2240/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Pratyush2240/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
 |  |
 | ------- |
@@ -158,8 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush2240/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Pratyush2240/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush2240/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Pratyush2240/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
