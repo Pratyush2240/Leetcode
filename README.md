@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pratyush2240/Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Pratyush2240/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/Pratyush2240/Leetcode/tree/master/3379-transformed-array) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pratyush2240/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Pratyush2240/Leetcode/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Pratyush2240/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Pratyush2240/Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pratyush2240/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pratyush2240/Leetcode/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyush2240/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pratyush2240/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pratyush2240/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Pratyush2240/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pratyush2240/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
