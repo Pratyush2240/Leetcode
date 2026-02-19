@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Pratyush2240/Leetcode/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyush2240/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0696-count-binary-substrings](https://github.com/Pratyush2240/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pratyush2240/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pratyush2240/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Pratyush2240/Leetcode/tree/master/0401-binary-watch) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Pratyush2240/Leetcode/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
