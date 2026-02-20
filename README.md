@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyush2240/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/Pratyush2240/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pratyush2240/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pratyush2240/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
@@ -160,11 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/0761-special-binary-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Pratyush2240/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Pratyush2240/Leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pratyush2240/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pratyush2240/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
