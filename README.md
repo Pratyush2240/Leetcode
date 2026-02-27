@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pratyush2240/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Pratyush2240/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pratyush2240/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pratyush2240/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pratyush2240/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pratyush2240/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratyush2240/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pratyush2240/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pratyush2240/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pratyush2240/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
