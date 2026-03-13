@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pratyush2240/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Pratyush2240/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush2240/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/Pratyush2240/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pratyush2240/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/Pratyush2240/Leetcode/tree/master/3453-separate-squares-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pratyush2240/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratyush2240/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Pratyush2240/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush2240/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pratyush2240/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Enumeration
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratyush2240/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pratyush2240/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush2240/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Pratyush2240/Leetcode/tree/master/3453-separate-squares-i) |
 ## Sliding Window
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pratyush2240/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pratyush2240/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Pratyush2240/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush2240/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Tree
 |  |
 | ------- |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratyush2240/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
