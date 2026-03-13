@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pratyush2240/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Pratyush2240/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Pratyush2240/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/Pratyush2240/Leetcode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Pratyush2240/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pratyush2240/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Pratyush2240/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pratyush2240/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Pratyush2240/Leetcode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Pratyush2240/Leetcode/tree/master/0401-binary-watch) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pratyush2240/Leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Pratyush2240/Leetcode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/Pratyush2240/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
